@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "tailwindcss": "^0.4.2"
+  },
+  "dependencies": {
+    "minifier": "^0.8.1"
   }
 }
